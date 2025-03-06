@@ -21,7 +21,7 @@ When you first open the YouTube app on your device, you can see the logo at the 
 
 💡 *While on the Search menu, you can tap the microphone button and use your device’s microphone to perform a search.*
 
-> You can tap the back button **(<)** to return to the home screen anytime.
+💡 *You can tap the back button **(<)** to return to the home screen anytime.*
 
 ## Sidebar
 By tapping on the **compass icon** next to the search bar in the center of the screen, you will open the sidebar with the following options:
@@ -47,5 +47,7 @@ On the bottom of the screen, you can find the navigation bar with more options:
  --- | ---
 | **Home** | Access YouTube’s home screen anytime. |
 | **Shorts** | Dedicated to vertical short-form videos, usually running under 60 seconds. |
-| **Subscriptions** | Display the latest uploads from channels you subscribe to. 💡 *Log in with your Google account to subscribe to YouTube channels.* |
-| **You** | Access your viewing history, saved videos, and playlists. 💡 *Tap the Sign In button to log in with your Google account to access your History and saved videos.* |
+| **Subscriptions** | Display the latest uploads from channels you subscribe to.  
+| **You** | Access your viewing history, saved videos, and playlists. 
+
+💡 *Log in with your Google account to subscribe to YouTube channels and access your history, playlists, and saved videos.* 
