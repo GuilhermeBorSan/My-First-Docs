@@ -2,13 +2,14 @@
 1. [Intro to the YouTube App](#intro-to-the-youtube-app)
 2. [Exploring YouTube's Homescreen](#exploring-youtubes-homescreen) 
 3. [Sidebar](#sidebar)
-4. [navigation bar](#navigation-bar)
+4. [Navigation Bar](#navigation-bar)
 
 # Intro to the YouTube App
 ## What is YouTube?
 > YouTube is a platform for *discovering, engaging, and sharing video content.*
 >
 > It's a space where creators can display their work and viewers discover new content and engage through likes, comments, and subscriptions.
+
 
 # Exploring YouTube's Homescreen
 When you first open the YouTube app on your device, you’ll be able to see the logo at the top right corner and 3 icons on the top left corner.
@@ -22,6 +23,7 @@ When you first open the YouTube app on your device, you’ll be able to see the 
 💡 *While on the Search menu, you can tap the microphone button and use your device’s microphone to perform a search.*
 
 > You can tap the back button **(<)** to return to the home screen anytime.
+
 
 # Sidebar
 By tapping on the **compass icon** next to the search bar in the center of the screen, you’ll open the sidebar with the following options:
@@ -39,6 +41,7 @@ By tapping on the **compass icon** next to the search bar in the center of the s
 | **YouTube Premium** | Includes options related to YouTube's paid subscription features. |
 | **YouTube Music** | Dedicated space for exploring, streaming, and discovering music content on YouTube. |
 | **YouTube Kids** | Specifically designed space for children, offering a safer and more controlled environment for kids to explore video content. |
+
 
 # Navigation Bar
 On the bottom of the screen you can find the navigation bar with more options like:
