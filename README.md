@@ -1,4 +1,4 @@
-# Welcome to my GitHub Wiki! 
+# Welcome to my GitHub! 
 
 As a technical writer, I am taking my first steps in the world of open-source collaboration. 
 
