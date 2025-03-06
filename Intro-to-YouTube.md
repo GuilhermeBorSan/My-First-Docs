@@ -10,8 +10,7 @@
 >
 > It's a space where creators can display their work and viewers discover new content and engage through likes, comments, and subscriptions.
 
-
-# Exploring YouTube's Homescreen
+## Exploring YouTube's Homescreen
 When you first open the YouTube app on your device, you’ll be able to see the logo at the top right corner and 3 icons on the top left corner.
 
 | **Icons** | **Description** |
@@ -24,8 +23,7 @@ When you first open the YouTube app on your device, you’ll be able to see the 
 
 > You can tap the back button **(<)** to return to the home screen anytime.
 
-
-# Sidebar
+## Sidebar
 By tapping on the **compass icon** next to the search bar in the center of the screen, you’ll open the sidebar with the following options:
 
 | **Section** | **Description** |
@@ -42,8 +40,7 @@ By tapping on the **compass icon** next to the search bar in the center of the s
 | **YouTube Music** | Dedicated space for exploring, streaming, and discovering music content on YouTube. |
 | **YouTube Kids** | Specifically designed space for children, offering a safer and more controlled environment for kids to explore video content. |
 
-
-# Navigation Bar
+## Navigation Bar
 On the bottom of the screen you can find the navigation bar with more options like:
 
 | **Section** | **Description** |
