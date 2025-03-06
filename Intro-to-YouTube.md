@@ -33,12 +33,14 @@ By tapping on the **compass icon** next to the search bar in the center of the s
 | **Gaming** | Specifically designed for gaming-related videos. |
 | **News** | Space for real time and on-demand news content. |
 | **Sports** | Highlights sports-related content. |
-| **Courses** | Focuses on structured educational content. *This section is only available for specific regions or account types.* |
+| **Courses** | Focuses on structured educational content. |
 | **Podcasts** | Highlights audio or video-based podcast content. |
 | **Hype** | Highlights trending and viral content. |
 | **YouTube Premium** | Includes options related to YouTube's paid subscription features. |
 | **YouTube Music** | Dedicated space for exploring, streaming, and discovering music content on YouTube. |
 | **YouTube Kids** | Specifically designed space for children, offering a safer and more controlled environment for kids to explore video content. |
+> **ATTENTION!** The Courses section is only available for specific regions or account types!
+
 
 ## Navigation Bar
 On the bottom of the screen, you can find the navigation bar with more options:
