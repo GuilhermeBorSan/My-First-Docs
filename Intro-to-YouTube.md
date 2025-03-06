@@ -1,5 +1,5 @@
 # Table of Contents
-1. [Intro to the YouTube App](#intro-to-the-youtube-app)
+1. [What is YouTube?](#what-is-YouTube?)
 2. [Exploring YouTube's Homescreen](#exploring-youtubes-homescreen) 
 3. [Sidebar](#sidebar)
 4. [Navigation Bar](#navigation-bar)
