@@ -13,14 +13,14 @@
 ## How to Send a PIX on the Banco do Brasil's App
 > **ATTENTION!** You can cancel the transaction anytime by tapping the close button **(X)**
 1. Open the bank app on your phone and log in by:
- *  Your 8-digit password
- *  Face ID
- *  Fingerprint recognition
+ *  Your 8-digit password.
+ *  Face ID.
+ *  Fingerprint recognition.
 
-💡If you forgot your password, click **here** to reset it
+💡If you forgot your password, click **here** to reset it.
 
-2. Select the **PIX** option on the home screen
-3. Tap **Payments and Transfers**
+2. Select the **PIX** option on the home screen.
+3. Tap **Payments and Transfers**.
 4. Select the Payment format:
 
 | **Payment Format** | **Action Required** |
@@ -34,19 +34,19 @@
   
 💡 The Recents list shows contacts from your latest transactions for quick access.
 
-5. Insert and verify the payment information
-6. Enter the transfer amount
-7. Select the transaction date
-8. Enter a transfer option (checking account, installments, or savings)
+5. Insert and verify the payment information.
+6. Enter the transfer amount.
+7. Select the transaction date.
+8. Enter a transfer option (checking account, installments, or savings).
 
-💡You can add a description to the transfer receipt
+💡You can add a description to the transfer receipt.
 
-9. Tap Advance
-10. Review the recipient’s details, transaction amount, and date
+9. Tap Advance.
+10. Review the recipient’s details, transaction amount, and date.
 
-💡If the information is incorrect, tap the **back** option ←
+💡If the information is incorrect, tap the **back** option ←.
 
-11. Tap **Comfirm with Password**
+11. Tap **Comfirm with Password**.
 12. Enter your 6-digit password.
 
 Your PIX transfer has been sent and the recipient will receive the funds instantly! 
@@ -55,20 +55,20 @@ The receipt will be displayed on your screen for sharing via the **Share** optio
 
 ## How to Receive a PIX Transaction on the Banco do Brasil App
 1. Open the bank app on your phone and log in by:
- *  Your 8-digit password
- *  Face ID
- *  Fingerprint recognition
+ *  Your 8-digit password.
+ *  Face ID.
+ *  Fingerprint recognition.
 
-💡If you forgot your password, click **here** to reset it
+💡If you forgot your password, click **here** to reset it.
 
-2. Check your balance
-3. Wait for the PIX transfer
+2. Check your balance.
+3. Wait for the PIX transfer.
    
-💡You may receive a bank notification for the PIX transaction within seconds. Tap it to view the details
+💡You may receive a bank notification for the PIX transaction within seconds. Tap it to view the details.
 
 4. Confirm the transaction.
-* Select the **PIX** option on the home screen
-* The **Transactions** list shows your recent activity
+* Select the **PIX** option on the home screen.
+* The **Transactions** list shows your recent activity.
 
 # Troubleshooting
 PIX transaction errors may occur due to incorrect information, insufficient funds, or system issues.
