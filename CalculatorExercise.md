@@ -2,7 +2,7 @@
 ## Table of Contents
 1. [The Calculator app](#the-calculator-app)  
 2. [Exploring the Calculator App on an iPhone](#exploring-the-calculator-app-on-an-iphone) 
-3. [Exercise](##exercise)
+3. [Exercise](#exercise)
    
 # The Calculator App
 > The calculator app is a digital version of a pocket calculator.
