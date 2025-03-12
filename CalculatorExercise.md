@@ -1,10 +1,8 @@
 # The Calculator Exercise
 ## Table of Contents
-1. [The Calculator app](#what-is-youtube)  
-2. [Exploring the Calculator App on an iPhone](#exploring-youtubes-homescreen) 
-3.
-4.
-5. [Exercise](#navigation-bar)
+1. [The Calculator app](#the-calculator-app)  
+2. [Exploring the Calculator App on an iPhone](#exploring-the-calculator-app-on-an-iphone) 
+3. [Exercise](##exercise)
    
 # The Calculator App
 > The calculator app is a digital version of a pocket calculator.
