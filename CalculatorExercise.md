@@ -45,15 +45,15 @@ Tap this icon to change from:
 * Basic: used for simple operations.
 * Scientific: used for complex math problems.
 * Math Notes: Solve handwritten math problems, evaluate expressions, and assign variables.
-* Conversion mode: Instantly calculate unit or currency conversions
+* Conversion mode: Instantly calculate unit or currency conversions.
 
 # Exercise
-Explain to your grandmother how to calculate the money she has to pay to order one cup of coffee for 1$ and a sandwich for 2$
->
+Explain to your grandmother how to calculate the money she has to pay to order one cup of coffee for 1$ and a sandwich for 2$.
+
 ## Using the Calculator App
 To know how much you have to pay for your coffee (1$) and a sandwich (2$):
-1.  **Open the app:** Tap the Calculator app on your phone
-2. Tap "1" for the coffee
-3. Tap "+" to add
-4. Tap "2" for the sandwich
-5. Tap "=" to see the answer
+1.  **Open the app:** tap the Calculator app on your phone.
+2. **Type the coffee price:** tap "1" for the coffee.
+3. **Select your operation:** tap "+" to add.
+4. **Type the sandwich price:** tap "2" for the sandwich.
+5. Tap "=" to see the result.
