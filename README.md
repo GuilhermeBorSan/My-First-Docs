@@ -1,4 +1,7 @@
 # Guilherme Borges Santos
+![LinkedIn](https://img.shields.io/badge/LinkedIn-GuilhermeBorSan-blue)
+![English](https://img.shields.io/badge/English-C2-green)
+
 
 # Table of Contents / Índice
 
@@ -9,8 +12,10 @@
 - [Como agrego valor](#-como-agrego-valor)
 - [Formação](#-formação)
 - [Competências Principais](#-competências-principais)
+- [Portfólio](#-portfólio)
 - [Vamos nos conectar](#-vamos-nos-conectar)
 
+### Meu Portfólio
 ## EN-US
 - [Who am I?](#en-us-who-am-i)
 - [What I do](#-what-i-do)
@@ -18,6 +23,7 @@
 - [How I Deliver Value](#-how-i-deliver-value)
 - [Background](#-background)
 - [Core Skills](#-core-skills)
+- [Portfolio](#-portfolio)
 - [Let’s Connect](#-lets-connect)
 
 
@@ -76,10 +82,17 @@ Conecto **clareza, tecnologia e usuários**:
 
 ---
 
+## 📝 Portfólio
+- [Introdução a Calculadora](https://github.com/GuilhermeBorSan/My-Repo/blob/main/CalculatorExercise.md ) 
+- [Introdução ao YouTube](https://github.com/GuilhermeBorSan/My-Repo/blob/main/Intro-to-YouTube.md ) 
+- [Como realizar um PIX](https://github.com/GuilhermeBorSan/My-Repo/blob/main/Pix-Transaction.md )
+  
+---
+
 ### 🤝 Vamos nos conectar  
 Se você procura um **Redator Técnico** que combine linguagem clara, perspectiva multicultural e expertise em documentação, entre em contato:  
 - [LinkedIn](https://www.linkedin.com/in/guilhermeborsan)
-- [Meu CV](https://github.com/GuilhermeBorSan/MyCVs/raw/main/PT-BR.pdf](https://github.com/GuilhermeBorSan/My-Docs/blob/main/PT-BR.md )  
+- [Meu CV](https://github.com/GuilhermeBorSan/My-Docs/blob/main/PT-BR.md )  
 - [GBSantos20@uol.com.br](mailto:GBSantos20@uol.com.br)  
 
 
@@ -135,6 +148,13 @@ I connect **clarity, technology, and users**:
 | ⚡ **Agile Methodologies** | 📚 Agile Scrum Fundamentals | Coordinated collaborative initiatives in multicultural teams as **Innovation Mentor at Casa Thomas Jefferson**. | 🤝 Teamwork and adaptability |
 | 🛠 **Git, Markdown, Confluence, Jira** | 📚 JIRA and Confluence Course | Maintained structured and versioned documentation as **English Teacher at Casa Thomas Jefferson**. | 🎯 Technical rigor and accuracy |
 | 🌍 **Languages**: English (C2), Spanish (A2), French (A2) | 📚 Google for Education Level 2 | Translated and reviewed multilingual content as **English Teacher at Casa Thomas Jefferson**. | 🌐 Cross-cultural communication and empathy |
+---
+
+### 📝Portfolio
+- [Introduction to Calculator](https://github.com/GuilhermeBorSan/My-Repo/blob/main/CalculatorExercise.md ) 
+- [Introduction to YouTube](https://github.com/GuilhermeBorSan/My-Repo/blob/main/Intro-to-YouTube.md ) 
+- [How to Perform a PIX Transaction](https://github.com/GuilhermeBorSan/My-Repo/blob/main/Pix-Transaction.md )
+
 ---
 
 ### 🤝 Let’s Connect  
