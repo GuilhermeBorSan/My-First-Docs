@@ -1,14 +1,18 @@
-# Welcome to my GitHub! 
+# Guilherme Borges Santos
 
-As a technical writer, I am taking my first steps in the world of open-source collaboration. 
+(PT-BR) Sou redator técnico em transição da área educacional. Tenho mais de 8 anos criando conteúdo e gerenciando projetos.  
+Hoje produzo documentação clara, acessível e multilíngue — conectando tecnologia a usuários.
 
-This repository is my initial attempt to learn, create, and share. 
+(EN-US) I am a technical writer transitioning from the education field. I have over 8 years of experience creating content and managing projects. 
+Today, I produce clear, accessible, and multilingual documentation, connecting technology to users.
 
-Here, you will find my projects, documentation efforts, and notes from my journey into technical writing. Feedback and suggestions are highly encouraged as I grow in this field.
 
-## Who am I?
-> Professional with over 8 years of experience in language teaching and project management. Certified in technical writing and project management, fluent in English, with proven skills in creating clear and detailed content for technical documentation, strategic planning, problem-solving, digital content development, and collaboration in multicultural teams.
+- 🇧🇷 [Leia em Português](./README-pt.md)  
+- 🇺🇸 [Read in English](./README-en.md)
 
-## Contact me at:
-* [LinkedIn Profile](https://www.linkedin.com/in/guilhermeborsan/)
+---
+
+Contato:
+
+* [LinkedIn](https://www.linkedin.com/in/guilhermeborsan)  
 * [GBSantos20@uol.com.br](mailto:GBSantos20@uol.com.br)
