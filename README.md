@@ -78,8 +78,8 @@ Conecto **clareza, tecnologia e usuários**:
 
 ### 🤝 Vamos nos conectar  
 Se você procura um **Redator Técnico** que combine linguagem clara, perspectiva multicultural e expertise em documentação, entre em contato:  
-- [LinkedIn](https://www.linkedin.com/in/guilhermeborsan)  
-- [Meu CV](https://github.com/GuilhermeBorSan/MyCVs/raw/main/PT-BR.pdf)  
+- [LinkedIn](https://www.linkedin.com/in/guilhermeborsan)
+- [Meu CV](https://github.com/GuilhermeBorSan/MyCVs/raw/main/PT-BR.pdf](https://github.com/GuilhermeBorSan/My-Docs/blob/main/PT-BR.md )  
 - [GBSantos20@uol.com.br](mailto:GBSantos20@uol.com.br)  
 
 
@@ -140,6 +140,6 @@ I connect **clarity, technology, and users**:
 ### 🤝 Let’s Connect  
 If you’re looking for a **Technical Writer** who combines clear language, multicultural perspective, and documentation expertise, feel free to reach out:
 - [LinkedIn](https://www.linkedin.com/in/guilhermeborsan)
-- [My CV](https://github.com/GuilhermeBorSan/MyCVs/raw/main/EN-US.pdf)
+- [My CV](https://github.com/GuilhermeBorSan/My-Docs/blob/main/EN-US.md)
 - [GBSantos20@uol.com.br](mailto:GBSantos20@uol.com.br) 
 ---
