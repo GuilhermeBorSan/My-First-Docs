@@ -7,9 +7,9 @@
 [![Email](https://img.shields.io/badge/Email-GBSantos20@uol.com.br-purple?style=flat-square&logo=gmail)](mailto:GBSantos20@uol.com.br)
 
 ## 👤 Quem sou eu
-Sou redator técnico em transição da área de educação, especializado em produzir documentação clara e estruturada.   
-- +8 anos de experiência em **ensino, gestão de projetos e produção de conteúdo**.     
-- +200 educadores impactados por metodologias documentadas.
+Sou redator técnico em transição da área de educação, especializado em produzir documentação clara e estruturada   
+- +8 anos de experiência em **ensino, gestão de projetos e produção de conteúdo**     
+- +200 educadores impactados por metodologias documentadas
 
 <details>
 <summary> Português - 🇧🇷 </summary>
@@ -21,13 +21,13 @@ Conecto **clareza, tecnologia e usuários**:
 
 ### 🏆 Experiência
 - **Profissional:**
-  - Nov 2024 - Atual: Examinador de Proficiência em Inglês na University of Cambridge   
-    - Aplico padrões internacionais de avaliação. 
+  - Nov 2024 - Atual: Examinador de Proficiência em Inglês na University of Cambridge 
+    - Aplico padrões internacionais de avaliação 
   - Jan 2025 - Fev 2025: Coordenador Pedagógico Bilíngue
-    - Alinhei padrões internacionais às necessidades locais.  
+    - Alinhei padrões internacionais às necessidades locais  
   - Abr 2021 - Fev 2024: Mentor de Inovação
-    -  Produzi guias do usuário, relatórios e materiais de treinamento.  
-  - Jan 2017 - Dez 2024: Educador de Inglês,
+    -  Produzi guias do usuário, relatórios e materiais de treinamento  
+  - Jan 2017 - Dez 2024: Educador de Inglês
     - Estruturei documentação educacional e digital para públicos diversos
 - **Educacional:**  
   - Licenciatura em Letras Inglês e Formação Pedagógica (Jul 2024)
@@ -45,7 +45,7 @@ Conecto **clareza, tecnologia e usuários**:
 | Gestão do Conhecimento | Tech Writers Master Class, The Project Management Course | Estruturação de processos como Mentor de Inovação | Organização e Documentação de Software |
 | Design da Informação | JPDocu School, Google for Education Level 2 | Criação de materiais digitais como Coordenador Pedagógico Bilíngue | Atenção a detalhes |
 | Gerenciamento de Projetos | Agile Scrum Fundamentals | Coordenação de equipes multiculturais | Trabalho em equipe com uso de metodologias ágeis |
-| Ferramentas tecnológicas | JIRA and Confluence Course', Markdown Course | Manutenção de documentação estruturada como Mentor de Inovação | Rigor técnico com o uso de Git, Confluence, XML, Markdown, Scrum, Jira, Notion, Trello, Zoom, Google Workspace, Microsoft Office |
+| Ferramentas tecnológicas | JIRA and Confluence Course, Markdown Course | Manutenção de documentação estruturada como Mentor de Inovação | Rigor técnico com o uso de Git, Confluence, XML, Markdown, Scrum, Jira, Notion, Trello, Zoom, Google Workspace, Microsoft Office |
 | Idiomas | Inglês (C2) certificado pela Universidade de Michigan | Tradução e revisão multilíngue como Educador de Inglês | Comunicação intercultural |
 
 ### 📂 Portfólio
@@ -55,11 +55,11 @@ Conecto **clareza, tecnologia e usuários**:
 </details>
 
 ---
-## 👤 Who am I
-I am a technical writer transitioning from the education field, focusing on clear, structured documentation.    
-- 8+ years in **teaching, project management, and content production**.      
-- 200+ educators impacted.   
 
+## 👤 Who am I
+I am a technical writer transitioning from the education field, focusing on clear, structured documentation    
+- 8+ years in **teaching, project management, and content production**      
+- 200+ educators impacted   
 
 <details>
 <summary> English - 🇺🇸</summary>
