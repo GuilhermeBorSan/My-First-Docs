@@ -5,7 +5,6 @@
 [![CV EN-US](https://img.shields.io/badge/CV-EN-blue?style=flat-square&logo=adobeacrobatreader)](https://github.com/GuilhermeBorSan/MyCVs/raw/main/EN-US.md)
 [![Email](https://img.shields.io/badge/Email-GBSantos20@uol.com.br-purple?style=flat-square&logo=gmail)](mailto:GBSantos20@uol.com.br)
 
----
 ## 👤 Quem sou eu
 Sou redator técnico em transição da área de educação, especializado em produzir documentação clara e estruturada.   
 +8 anos de experiência em **ensino, gestão de projetos e produção de conteúdo**.     
