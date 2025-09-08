@@ -21,17 +21,17 @@ Conecto **clareza, tecnologia e usuários**:
 
 ### 🏆 Experiência
 - **Profissional:**
-  - Nov. 2024 - Atual: Examinador de Proficiência em Inglês na University of Cambridge   
+  - Nov 2024 - Atual: Examinador de Proficiência em Inglês na University of Cambridge   
     - Aplico padrões internacionais de avaliação. 
-  - Jan. 2025 - Fev. 2025: Coordenador Pedagógico Bilíngue
+  - Jan 2025 - Fev 2025: Coordenador Pedagógico Bilíngue
     - Alinhei padrões internacionais às necessidades locais.  
-  - Abr. 2021 - Fev. 2024: Mentor de Inovação
+  - Abr 2021 - Fev 2024: Mentor de Inovação
     -  Produzi guias do usuário, relatórios e materiais de treinamento.  
-  - Jan. 2017 - Dez. 2024: Educador de Inglês,
+  - Jan 2017 - Dez 2024: Educador de Inglês,
     - Estruturei documentação educacional e digital para públicos diversos
 - **Educacional:**  
-  - Licenciatura em Letras Inglês e Formação Pedagógica (2024)
-  - Bacharelado em Relações Internacionais (2016)
+  - Licenciatura em Letras Inglês e Formação Pedagógica (Jul 2024)
+  - Bacharelado em Relações Internacionais (Jun 2016)
 - **Idiomas:**  
   - Português (Nativo)
   - Inglês (Fluente - C2)
@@ -71,13 +71,13 @@ I connect **clarity, technology, and users**:
 
 ### 🏆 Background
 - **Professional:**
-  - Nov. 2024 - Present: English Proficiency Examiner, at the University of Cambridge.
-  - Jan. 2025 - Feb. 2025: Bilingual Pedagogical Coordinator, aligning international standards to local needs.
-  - Apr. 2021 - Feb. 2024: Innovation Mentor producing user guides, reports, and training materials. 
-  - Jan. 2017 - Dec. 2024: English Teacher, structuring educational and digital documentation.  
+  - Nov 2024 - Present: English Proficiency Examiner, at the University of Cambridge.
+  - Jan 2025 - Feb 2025: Bilingual Pedagogical Coordinator, aligning international standards to local needs.
+  - Apr 2021 - Feb 2024: Innovation Mentor producing user guides, reports, and training materials. 
+  - Jan 2017 - Dec 2024: English Teacher, structuring educational and digital documentation.  
 - **Education:**  
-  - BA in English Language and Literature and Pedagogical Training
-  - BA in International Relations
+  - BA in English Language and Literature and Pedagogical Training (Jul 2024) 
+  - BA in International Relations (Jun 2016)
 - **Languages:**  
   - Portuguese (Native)
   - English (Fluent - C2)
