@@ -8,7 +8,7 @@
 ---
 
 <details>
-<summary> PT - 🇧🇷 </summary>
+<summary> Português - 🇧🇷 </summary>
 
 ### Quem sou eu
 Sou redator técnico em transição da área de educação.  
@@ -48,7 +48,7 @@ Conecto **clareza, tecnologia e usuários**:
 </details>
 
 <details>
-<summary> EN - 🇺🇸</summary>
+<summary> English - 🇺🇸</summary>
 
 ### Who am I
 I am a technical writer transitioning from the Educational field.  
