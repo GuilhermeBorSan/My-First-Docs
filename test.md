@@ -1,8 +1,9 @@
 # Guilherme Borges Santos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GuilhermeB-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/guilhermeborsan)
-[![GitHub](https://img.shields.io/badge/GitHub-GBSantos20-black?style=flat-square&logo=github)](https://github.com/GuilhermeBorSan)
-[![CV](https://img.shields.io/badge/CV-PDF-red?style=flat-square&logo=adobeacrobatreader)](https://github.com/GuilhermeBorSan/MyCVs/raw/main/PT-BR.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GuilhermeBorSan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/guilhermeborsan)
+[![GitHub](https://img.shields.io/badge/GitHub-GuilhermeBorSan-black?style=flat-square&logo=github)](https://github.com/GuilhermeBorSan)
+[![CV](https://img.shields.io/badge/CV-PTBR-red?style=flat-square&logo=adobeacrobatreader)](https://github.com/GuilhermeBorSan/MyCVs/raw/main/PT-BR.md)
+[![CV](https://img.shields.io/badge/CV-EN-blue?style=flat-square&logo=adobeacrobatreader)](https://github.com/GuilhermeBorSan/MyCVs/raw/main/EN-US.md)
 [![Email](https://img.shields.io/badge/Email-GBSantos20@uol.com.br-green?style=flat-square&logo=gmail)](mailto:GBSantos20@uol.com.br)
 
 <details>
@@ -20,22 +21,25 @@
 </details>
 
 
----
-
 ## (PT-BR) Quem sou eu / (EN-US) Who am I
 
-Sou um redator técnico em transição da área de educação / I am a technical writer transitioning from the education field.
+Sou um redator técnico em transição da área de educação.  
++8 anos de experiência em **ensino, gestão de projetos e produção de conteúdo**, agora focado em **Redação Técnica**.    
++200 educadores impactados por metodologias documentadas.  
 
-+8 anos de experiência em **ensino, gestão de projetos e produção de conteúdo**, agora focado em **Redação Técnica** / 8+ years in **teaching, project management, and content production**, now focused on **Technical Writing**.  
-+200 educadores impactados por metodologias documentadas / 200+ educators impacted through documented learning methodologies.
+I am a technical writer transitioning from the education field.    
+8+ years in **teaching, project management, and content production**, now focused on **Technical Writing**.   
+200+ educators impacted through documented learning methodologies. 
 
 ---
 
 ## 🔎 O que eu faço / What I do
 
-Conecto **clareza, tecnologia e usuários** / I connect **clarity, technology, and users**:  
+Conecto **clareza, tecnologia e usuários**: 
 > Complexidade → Estrutura → Acessibilidade  
-> Documentação → Eficiência → Conhecimento Compartilhado  
+> Documentação → Eficiência → Conhecimento Compartilhado
+
+I connect **clarity, technology, and users**:  
 > Complexity → Structure → Accessibility  
 > Documentation → Efficiency → Shared Knowledge
 
@@ -43,15 +47,15 @@ Conecto **clareza, tecnologia e usuários** / I connect **clarity, technology, a
 
 ## 🚀 Principais Conquistas / Key Achievements
 
-- Atuo como **Examinador de Proficiência em Inglês na University of Cambridge**, garantindo avaliação padronizada e documentação precisa.  
-  / I work as an **English Proficiency Examiner at the University of Cambridge**, ensuring standardized assessment and precise documentation.
-- Coordenei **transferência de conhecimento em contextos multiculturais** como Coordenador Pedagógico Bilíngue, alinhando padrões internacionais às necessidades locais.  
-  / I coordinated knowledge transfer in multicultural contexts as a **Bilingual Pedagogical Coordinator**, aligning international standards with local needs.
-- Produzi **guias do usuário, relatórios e materiais de treinamento** claros como Mentor de Inovação, aumentando engajamento e aprendizagem.  
-  / I produced clear **user guides, reports, and training materials** as an **Innovation Mentor**, increasing engagement and learning.
-- Estruturei documentação educacional e digital como Educador de Inglês, garantindo consistência para mais de 200 professores.  
-  / I structured educational and digital documentation as an **English Teacher**, ensuring consistency for over 200 educators.
-
+- Atuo como **Examinador de Proficiência em Inglês na University of Cambridge**, garantindo avaliação padronizada e documentação precisa.
+- Coordenei **transferência de conhecimento em contextos multiculturais** como Coordenador Pedagógico Bilíngue, alinhando padrões internacionais às necessidades locais.
+- Produzi **guias do usuário, relatórios e materiais de treinamento** claros como Mentor de Inovação, aumentando engajamento e aprendizagem.
+- Estruturei documentação educacional e digital como Educador de Inglês, garantindo consistência para mais de 200 professores. 
+***
+- I work as an **English Proficiency Examiner at the University of Cambridge**, ensuring standardized assessment and precise documentation.
+- I coordinated knowledge transfer in multicultural contexts as a **Bilingual Pedagogical Coordinator**, aligning international standards with local needs.
+- I produced clear **user guides, reports, and training materials** as an **Innovation Mentor**, increasing engagement and learning.
+- I structured educational and digital documentation as an **English Teacher**, ensuring consistency for over 200 educators.
 ---
 
 ## 💡 Como agrego valor / How I Deliver Value
