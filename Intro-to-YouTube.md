@@ -88,5 +88,3 @@ Located at the bottom of the screen:
 | Cannot find a video | Incorrect search terms | Use keywords or check spelling. |
 | Sidebar missing | App not updated | Update the YouTube app to the latest version. |
 | Cannot subscribe | Not logged in | Sign in with your Google account. |
-
----
