@@ -52,11 +52,6 @@ Conecto **clareza, tecnologia e usuários**:
 | Ferramentas Tecnológicas | Jira and Confluence Course, Markdown Course                 | Manter documentação estruturada como Mentor de Inovação                   | Rigor técnico com Git, Confluence, XML, Markdown, Scrum, Jira, Notion, Trello, Zoom, Google Workspace, Microsoft Office |
 | Idiomas                | Inglês (C2) certificado pela Universidade de Michigan         | Traduzir e revisar conteúdo multilíngue como Educador de Inglês           | Comunicação intercultural                                                  |
 
-### 📂 Portfólio
-- [Introdução à Calculadora](https://github.com/GuilhermeBorSan/My-Repo/blob/main/CalculatorExercise.md)  
-- [Introdução ao YouTube](https://github.com/GuilhermeBorSan/My-Repo/blob/main/Intro-to-YouTube.md)  
-- [Como Realizar um PIX](https://github.com/GuilhermeBorSan/My-Repo/blob/main/Pix-Transaction.md)
-
 </details>
 
 ---
