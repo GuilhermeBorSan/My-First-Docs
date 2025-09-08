@@ -1,6 +1,9 @@
 # Guilherme Borges Santos
-![LinkedIn](https://img.shields.io/badge/LinkedIn-GuilhermeBorSan-blue)
-![English](https://img.shields.io/badge/English-C2-green)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GuilhermeB-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/guilhermeborsan)
+[![GitHub](https://img.shields.io/badge/GitHub-GBSantos20-black?style=flat-square&logo=github)](https://github.com/GuilhermeBorSan)
+[![CV](https://img.shields.io/badge/CV-PDF-red?style=flat-square&logo=adobeacrobatreader)](https://github.com/GuilhermeBorSan/MyCVs/raw/main/PT-BR.pdf)
+[![Email](https://img.shields.io/badge/Email-GBSantos20@uol.com.br-green?style=flat-square&logo=gmail)](mailto:GBSantos20@uol.com.br)
+
 
 
 # Table of Contents / Índice
@@ -90,10 +93,8 @@ Conecto **clareza, tecnologia e usuários**:
 ---
 
 ### 🤝 Vamos nos conectar  
-Se você procura um **Redator Técnico** que combine linguagem clara, perspectiva multicultural e expertise em documentação, entre em contato:  
-- [LinkedIn](https://www.linkedin.com/in/guilhermeborsan)
-- [Meu CV](https://github.com/GuilhermeBorSan/My-Docs/blob/main/PT-BR.md )  
-- [GBSantos20@uol.com.br](mailto:GBSantos20@uol.com.br)  
+Se você procura um **Redator Técnico** que combine linguagem clara, perspectiva multicultural e expertise em documentação, entre em contato:
+[LinkedIn](https://www.linkedin.com/in/guilhermeborsan) • [CV](https://github.com/GuilhermeBorSan/My-Docs/blob/main/PT-BR.md) • [Email](mailto:GBSantos20@uol.com.br)
 
 
 ## (EN-US) Who am I?
