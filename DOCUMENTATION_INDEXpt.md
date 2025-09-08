@@ -28,7 +28,7 @@
    
 ---
 
-## 🛠️ Competências Demonstradas
+## 🛠️ Competências
 - Escrita técnica clara e objetiva.  
 - Padronização de formatação e estilo.  
 - Organização de conteúdo para diferentes públicos.  
