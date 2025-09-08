@@ -14,12 +14,12 @@ Sou redator técnico em transição da área de educação, especializado em pro
 <details>
 <summary> Português - 🇧🇷 </summary>
 
-### O que eu faço
+### 🛠️ O que eu faço
 Conecto **clareza, tecnologia e usuários**:  
 > Complexidade → Estrutura → Acessibilidade  
 > Documentação → Eficiência → Conhecimento Compartilhado
 
-### Experiência
+### 🏆 Experiência
 - **Profissional:**
   - Nov. 2024 - Atual: Examinador de Proficiência em Inglês na University of Cambridge, aplicando padrões internacionais de avaliação. 
   - Jan. 2025 - Fev. 2025: Coordenador Pedagógico Bilíngue, alinhando padrões internacionais às necessidades locais.  
@@ -30,7 +30,7 @@ Conecto **clareza, tecnologia e usuários**:
   - Licenciatura em Letras Inglês e Formação Pedagógica (2024)
   - Bacharelado em Relações Internacionais (2016)  
 
-### Como agrego valor
+### 🧰 Como agrego valor
 | Competência | Certificação | Atividade | Habilidade |
 |-------------|--------------|-----------|------------|
 | Redação Técnica | API Technical Writing | Produção de registros padronizados como Examinador Oral | Comunicação clara |
@@ -40,14 +40,14 @@ Conecto **clareza, tecnologia e usuários**:
 | Ferramentas tecnológicas | JIRA and Confluence Course', Markdown Course | Manutenção de documentação estruturada como Mentor de Inovação | Rigor técnico com o uso de Git, Confluence, XML, Markdown, Scrum, Jira, Notion, Trello, Zoom, Google Workspace, Microsoft Office |
 | Idiomas | Português (Nativo), Inglês (Fluente - C2), Espanhol (Intermediário - B1), Francês (Básico - A2) | Tradução e revisão multilíngue como Educador de Inglês | Comunicação intercultural |
 
-### Portfólio
+### 📂 Portfólio
 - [Introdução a Calculadora](https://github.com/GuilhermeBorSan/My-Repo/blob/main/CalculatorExercise.md)  
 - [Introdução ao YouTube](https://github.com/GuilhermeBorSan/My-Repo/blob/main/Intro-to-YouTube.md)  
 - [Como Realizar um PIX](https://github.com/GuilhermeBorSan/My-Repo/blob/main/Pix-Transaction.md)
 </details>
 
 ---
-### 👤 Who am I
+## 👤 Who am I
 I am a technical writer transitioning from the education field, focusing on clear, structured documentation.
 8+ years in **teaching, project management, and content production**.  
 200+ educators impacted.
@@ -56,12 +56,12 @@ I am a technical writer transitioning from the education field, focusing on clea
 <details>
 <summary> English - 🇺🇸</summary>
 
-### What I do
+### 🛠️ What I do
 I connect **clarity, technology, and users**:  
 > Complexity → Structure → Accessibility  
 > Documentation → Efficiency → Shared Knowledge
 
-### Background
+### 🏆 Background
 - **Professional:**
   - Nov. 2024 - Present: English Proficiency Examiner, at the University of Cambridge.
   - Jan. 2025 - Feb. 2025: Bilingual Pedagogical Coordinator, aligning international standards to local needs.
@@ -71,7 +71,7 @@ I connect **clarity, technology, and users**:
   - BA in English Language and Literature and Pedagogical Training
   - BA in International Relations  
 
-### How I Deliver Value
+### 🧰 How I Deliver Value
 | Skill | Certification | Activity | Competency |
 |-------|---------------|---------|-----------|
 | Technical Writing | API Technical Writing | Produce standardized evaluation records as a Speaking Examiner | Clear communication |
@@ -81,7 +81,7 @@ I connect **clarity, technology, and users**:
 | Technological Tools | JIRA and Confluence Course, Markdown Course  | Maintained structured documentation | Technical rigor with the use of Git, Confluence, XML, Markdown, Scrum, Jira, Notion, Trello, Zoom, Google Workspace, Microsoft Office  |
 | Languages | Portuguese (Native), English (Fluent - C2), Spanish (Intermediate - B1), French (Basic - A2) | Translated and reviewed multilingual content as English Teacher | Cross-cultural communication |
 
-### Portfolio
+### 📂 Portfolio
 - [Introduction to Calculator](https://github.com/GuilhermeBorSan/My-Repo/blob/main/CalculatorExercise.md)  
 - [Introduction to YouTube](https://github.com/GuilhermeBorSan/My-Repo/blob/main/Intro-to-YouTube.md)  
 - [How to Perform a PIX Transaction](https://github.com/GuilhermeBorSan/My-Repo/blob/main/Pix-Transaction.md)
