@@ -11,7 +11,7 @@
 ## 📂 Docs
 
 ### Documentações Atuais
-1. **[Calculator Exercise](./CalculatorExercise.md)**  
+3. **[Calculator Exercise](./CalculatorExercise.md)**  
    *Tipo:* Guia passo a passo  
    *Objetivo:* Ensinar usuários iniciantes a realizar cálculos básicos no app Calculadora do iPhone.  
    *Público-alvo:* Usuários iniciantes em smartphones.  
@@ -21,7 +21,7 @@
    *Objetivo:* Apresentar a tela inicial, barra lateral e barra de navegação do app YouTube.  
    *Público-alvo:* Novos usuários do YouTube.  
 
-3. **[How to Perform a PIX Transaction](./Pix-Transaction.md)**  
+1. **[How to Perform a PIX Transaction](./Pix-Transaction.md)**  
    *Tipo:* Guia de operação bancária  
    *Objetivo:* Explicar como enviar e receber transferências via PIX no app do Banco do Brasil.  
    *Público-alvo:* Clientes do Banco do Brasil que usam PIX.
