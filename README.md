@@ -1,4 +1,4 @@
-# Guilherme Borges Santos
+# Guilherme Borges Santos - Technical Writer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GuilhermeBorSan-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/guilhermeborsan)
 [![CV PT-BR](https://img.shields.io/badge/CV-PTBR-green?style=flat-square&logo=adobeacrobatreader)](https://github.com/GuilhermeBorSan/MyCVs/raw/main/PT-BR.md)
@@ -6,14 +6,13 @@
 [![Email](https://img.shields.io/badge/Email-GBSantos20@uol.com.br-purple?style=flat-square&logo=gmail)](mailto:GBSantos20@uol.com.br)
 
 ---
+## 👤 Quem sou eu
+Sou redator técnico em transição da área de educação, especializado em produzir documentação clara e estruturada.
++8 anos de experiência em **ensino, gestão de projetos e produção de conteúdo**.  
++200 educadores impactados por metodologias documentadas.
 
 <details>
 <summary> Português - 🇧🇷 </summary>
-
-### Quem sou eu
-Sou redator técnico em transição da área de educação.  
-+8 anos de experiência em **ensino, gestão de projetos e produção de conteúdo**.  
-+200 educadores impactados por metodologias documentadas.
 
 ### O que eu faço
 Conecto **clareza, tecnologia e usuários**:  
@@ -47,13 +46,15 @@ Conecto **clareza, tecnologia e usuários**:
 - [Como Realizar um PIX](https://github.com/GuilhermeBorSan/My-Repo/blob/main/Pix-Transaction.md)
 </details>
 
-<details>
-<summary> English - 🇺🇸</summary>
-
-### Who am I
-I am a technical writer transitioning from the Educational field.  
+---
+### 👤 Who am I
+I am a technical writer transitioning from the education field, focusing on clear, structured documentation.
 8+ years in **teaching, project management, and content production**.  
 200+ educators impacted.
+
+
+<details>
+<summary> English - 🇺🇸</summary>
 
 ### What I do
 I connect **clarity, technology, and users**:  
