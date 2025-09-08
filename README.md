@@ -7,8 +7,8 @@ Hoje produzo documentação clara, acessível e multilíngue — conectando tecn
 Today, I produce clear, accessible, and multilingual documentation, connecting technology to users.
 
 
-- 🇧🇷 [Leia em Português](./PT-BR.md)  
-- 🇺🇸 [Read in English](./EN-US.md)
+- 🇧🇷 [Leia em Português](https://github.com/GuilhermeBorSan/MyCVs/blob/main/PT-BR.md)
+- 🇺🇸 [Read in English](https://github.com/GuilhermeBorSan/MyCVs/raw/main/EN-US.pdf)
 
 ---
 
