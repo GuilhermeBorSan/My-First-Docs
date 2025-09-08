@@ -1,7 +1,6 @@
 # Guilherme Borges Santos
 
-📍 Brasília, DF | 📞 +55 61 98133-7257 | ✉️ [GBSantos20@uol.com.br](mailto:GBSantos20@uol.com.br)  
-💼 [LinkedIn](https://www.linkedin.com/in/guilhermeborsan) | [GitHub](https://github.com/GuilhermeBorSan/My-First-Docs/wiki/ABOUT-ME)  
+Brasília, DF | +55 61 98133-7257 | ✉️ [GBSantos20@uol.com.br](mailto:GBSantos20@uol.com.br) | [LinkedIn](https://www.linkedin.com/in/guilhermeborsan)
 
 **Technical Writer | Knowledge Management | Multicultural Experience**
 
