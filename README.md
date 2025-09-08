@@ -20,11 +20,16 @@ Conecto **clareza, tecnologia e usuários**:
 > Complexidade → Estrutura → Acessibilidade  
 > Documentação → Eficiência → Conhecimento Compartilhado
 
-### Experiências Profissionais
-- Examinador de Proficiência em Inglês na University of Cambridge.  
-- Coordenador Pedagógico Bilíngue, alinhando padrões internacionais às necessidades locais.  
-- Mentor de Inovação, produzindo guias do usuário, relatórios e materiais de treinamento.  
-- Educador de Inglês, estruturando documentação educacional e digital.
+### Experiência
+- **Profissional:**
+  - Nov. 2024 - Atual: Examinador de Proficiência em Inglês na University of Cambridge, aplicando padrões internacionais de avaliação. 
+  - Jan. 2025 - Fev. 2025: Coordenador Pedagógico Bilíngue, alinhando padrões internacionais às necessidades locais.  
+  - Abr. 2021 - Fev. 2024: Mentor de Inovação, produzindo guias do usuário, relatórios e materiais de treinamento.  
+  - Jan. 2017 - Dez. 2024: Educador de Inglês, estruturando documentação educacional e digital.
+     
+- **Educacional:**  
+  - Licenciatura em Letras Inglês e Formação Pedagógica (2024)
+  - Bacharelado em Relações Internacionais (2016)  
 
 ### Como agrego valor
 | Competência | Certificação | Atividade | Habilidade |
@@ -36,11 +41,6 @@ Conecto **clareza, tecnologia e usuários**:
 | Ferramentas tecnológicas | JIRA and Confluence Course', Markdown Course | Manutenção de documentação estruturada como Mentor de Inovação | Rigor técnico com o uso de Git, Confluence, XML, Markdown, Scrum, Jira, Notion, Trello, Zoom, Google Workspace, Microsoft Office |
 | Idiomas | Português (Nativo), Inglês (Fluente - C2), Espanhol (Intermediário - B1), Francês (Básico - A2) | Tradução e revisão multilíngue como Educador de Inglês | Comunicação intercultural |
 
-### Formação
-- **Educação:**  
-  - Bacharel em Letras Inglês e Formação Pedagógica – Estácio (2024)
-  - Relações Internacionais – UCB (2016)
-
 ### Portfólio
 - [Introdução a Calculadora](https://github.com/GuilhermeBorSan/My-Repo/blob/main/CalculatorExercise.md)  
 - [Introdução ao YouTube](https://github.com/GuilhermeBorSan/My-Repo/blob/main/Intro-to-YouTube.md)  
@@ -50,10 +50,8 @@ Conecto **clareza, tecnologia e usuários**:
 <details>
 <summary> EN - 🇺🇸</summary>
 
-## <a name="en-us"></a>EN-US
-
 ### Who am I
-I am a technical writer transitioning from the education field.  
+I am a technical writer transitioning from the Educational field.  
 8+ years in **teaching, project management, and content production**.  
 200+ educators impacted.
 
@@ -62,46 +60,29 @@ I connect **clarity, technology, and users**:
 > Complexity → Structure → Accessibility  
 > Documentation → Efficiency → Shared Knowledge
 
-### Key Achievements
-- English Proficiency Examiner at University of Cambridge.  
-- Bilingual Pedagogical Coordinator aligning international standards to local needs.  
-- Innovation Mentor producing user guides, reports, and training materials.  
-- English Teacher structuring educational and digital documentation.
+### Background
+- **Professional:**
+  - Nov. 2024 - Present: English Proficiency Examiner, at the University of Cambridge.
+  - Jan. 2025 - Feb. 2025: Bilingual Pedagogical Coordinator, aligning international standards to local needs.
+  - Apr. 2021 - Feb. 2024: Innovation Mentor producing user guides, reports, and training materials. 
+  - Jan. 2017 - Dec. 2024: English Teacher, structuring educational and digital documentation.  
+- **Education:**  
+  - BA in English Language and Literature and Pedagogical Training
+  - BA in International Relations  
 
 ### How I Deliver Value
-- **Proficient in:** Git, Confluence, Markdown, Jira, Notion, Trello  
-- **Certifications:** API Technical Writing, Agile Scrum, Software Documentation  
-- **Languages:** Portuguese (Native), English (C2), Spanish (Basic), French (Basic)
-
-### Background
-- **Education:**  
-  - BA in English Language and Literature – Estácio  
-  - International Relations – UCB  
-
-<details>
-<summary>Certifications</summary>
-- API Technical Writing  
-- JPDocu School of Technical Writing  
-- Tech Writers Master Class  
-- Agile Scrum
-</details>
-
-### Core Skills
 | Skill | Certification | Activity | Competency |
 |-------|---------------|---------|-----------|
-| Technical Writing | API Technical Writing | Produce standardized evaluation records | Clear communication |
-| Knowledge Management | Tech Writers Master Class | Structured documentation processes | Organization |
-| Information Design | JPDocu School | Created digital and instructional materials | Attention to detail |
-| Agile Methodologies | Agile Scrum Fundamentals | Coordinated multicultural teams | Teamwork |
-| Git, Markdown, Confluence, Jira | JIRA and Confluence Course | Maintained structured documentation | Technical rigor |
-| Languages | Google for Education Level 2 | Translated and reviewed multilingual content | Cross-cultural communication |
+| Technical Writing | API Technical Writing | Produce standardized evaluation records as a Speaking Examiner | Clear communication |
+| Knowledge Management | Tech Writers Master Class, The Project Management Course  | Structured documentation processes as a Innovation Mentor | Organization and Software Documentation |
+| Information Design | JPDocu School, Google for Education Level 2  | Created digital and instructional materials as a Bilingual Pedagogical Coordinator | Attention to detail |
+| Project Management | Agile Scrum Fundamentals | Coordinated multicultural teams | Teamwork and use of agile methodologies|
+| Technological Tools | JIRA and Confluence Course, Markdown Course  | Maintained structured documentation | Technical rigor with the use of Git, Confluence, XML, Markdown, Scrum, Jira, Notion, Trello, Zoom, Google Workspace, Microsoft Office  |
+| Languages | Portuguese (Native), English (Fluent - C2), Spanish (Intermediate - B1), French (Basic - A2) | Translated and reviewed multilingual content as English Teacher | Cross-cultural communication |
 
 ### Portfolio
 - [Introduction to Calculator](https://github.com/GuilhermeBorSan/My-Repo/blob/main/CalculatorExercise.md)  
 - [Introduction to YouTube](https://github.com/GuilhermeBorSan/My-Repo/blob/main/Intro-to-YouTube.md)  
 - [How to Perform a PIX Transaction](https://github.com/GuilhermeBorSan/My-Repo/blob/main/Pix-Transaction.md)
-
-### Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/guilhermeborsan) • [CV](https://github.com/GuilhermeBorSan/MyCVs/raw/main/EN-US.md) • [Email](mailto:GBSantos20@uol.com.br)
 
 </details>
