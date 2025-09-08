@@ -15,9 +15,7 @@
 - [Formação](#-formação)
 - [Competências Principais](#-competências-principais)
 - [Portfólio](#-portfólio)
-- [Vamos nos conectar](#-vamos-nos-conectar)
 
-### Meu Portfólio
 ## EN-US
 - [Who am I?](#en-us-who-am-i)
 - [What I do](#-what-i-do)
@@ -26,8 +24,6 @@
 - [Background](#-background)
 - [Core Skills](#-core-skills)
 - [Portfolio](#-portfolio)
-- [Let’s Connect](#-lets-connect)
-
 
 # (PT-BR) Quem sou eu?
 
@@ -91,11 +87,6 @@ Conecto **clareza, tecnologia e usuários**:
   
 ---
 
-### 🤝 Vamos nos conectar  
-Se você procura um **Redator Técnico** que combine linguagem clara, perspectiva multicultural e expertise em documentação, entre em contato:
-[LinkedIn](https://www.linkedin.com/in/guilhermeborsan) • [CV](https://github.com/GuilhermeBorSan/My-Docs/blob/main/PT-BR.md) • [Email](mailto:GBSantos20@uol.com.br)
-
-
 ## (EN-US) Who am I?
 
 I am a technical writer transitioning from the education field. 
@@ -139,7 +130,7 @@ I connect **clarity, technology, and users**:
 
 ---
 
-### 🛠 Core Skills  
+## 🛠 Core Skills  
 | Skills | Certifications | Activities | Competencies |
 |--------|----------------|------------|--------------|
 | 📝 **Technical Writing** | 📚 API Technical Writing (REST, JSON, XML) | Produce standardized evaluation records as **Speaking Examiner at University of Cambridge**, ensuring clarity and consistency. | 💬 Clear and precise communication |
@@ -150,16 +141,9 @@ I connect **clarity, technology, and users**:
 | 🌍 **Languages**: English (C2), Spanish (A2), French (A2) | 📚 Google for Education Level 2 | Translated and reviewed multilingual content as **English Teacher at Casa Thomas Jefferson**. | 🌐 Cross-cultural communication and empathy |
 ---
 
-### 📝Portfolio
+## 📝Portfolio
 - [Introduction to Calculator](https://github.com/GuilhermeBorSan/My-Repo/blob/main/CalculatorExercise.md ) 
 - [Introduction to YouTube](https://github.com/GuilhermeBorSan/My-Repo/blob/main/Intro-to-YouTube.md ) 
 - [How to Perform a PIX Transaction](https://github.com/GuilhermeBorSan/My-Repo/blob/main/Pix-Transaction.md )
 
----
-
-### 🤝 Let’s Connect  
-If you’re looking for a **Technical Writer** who combines clear language, multicultural perspective, and documentation expertise, feel free to reach out:
-- [LinkedIn](https://www.linkedin.com/in/guilhermeborsan)
-- [My CV](https://github.com/GuilhermeBorSan/My-Docs/blob/main/EN-US.md)
-- [GBSantos20@uol.com.br](mailto:GBSantos20@uol.com.br) 
 ---
