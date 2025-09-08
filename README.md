@@ -76,7 +76,12 @@ I connect **clarity, technology, and users**:
   - Jan. 2017 - Dec. 2024: English Teacher, structuring educational and digital documentation.  
 - **Education:**  
   - BA in English Language and Literature and Pedagogical Training
-  - BA in International Relations  
+  - BA in International Relations
+- **Languages:**  
+  - Portuguese (Native)
+  - English (Fluent - C2)
+  - Spanish (Intermediate - B1)
+  - French (Basic - A2)  
 
 ### 🧰 How I Deliver Value
 | Skill | Certification | Activity | Competency |
@@ -86,7 +91,7 @@ I connect **clarity, technology, and users**:
 | Information Design | JPDocu School, Google for Education Level 2  | Created digital and instructional materials as a Bilingual Pedagogical Coordinator | Attention to detail |
 | Project Management | Agile Scrum Fundamentals | Coordinated multicultural teams | Teamwork and use of agile methodologies|
 | Technological Tools | JIRA and Confluence Course, Markdown Course  | Maintained structured documentation | Technical rigor with the use of Git, Confluence, XML, Markdown, Scrum, Jira, Notion, Trello, Zoom, Google Workspace, Microsoft Office  |
-| Languages | Portuguese (Native), English (Fluent - C2), Spanish (Intermediate - B1), French (Basic - A2) | Translated and reviewed multilingual content as English Teacher | Cross-cultural communication |
+| Languages | English (C2), certified by the Michigan University | Translated and reviewed multilingual content as English Teacher | Cross-cultural communication |
 
 ### 📂 Portfolio
 - [Introduction to Calculator](https://github.com/GuilhermeBorSan/My-Repo/blob/main/CalculatorExercise.md)  
