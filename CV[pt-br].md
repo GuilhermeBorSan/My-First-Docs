@@ -6,19 +6,9 @@ Brasília, DF | +55 61 98133-7257 | [GBSantos20@uol.com.br](mailto:GBSantos20@uo
 
 ---
 
-## 📑 Sumário
-- [Perfil Profissional](#perfil-profissional)
-- [Atividades de Liderança](#atividades-de-liderança)
-- [Experiência](#experiência)
-- [Certificações](#certificações)
-- [Competências](#competencias)
-- [Educação](#educação)
-
----
-
 ## Perfil Profissional
 Redator Técnico em transição de carreira na educação, com mais de 8 anos de experiência em ensino, gestão de projetos e desenvolvimento de conteúdo.  
-Graduado em Letras – Inglês e Relações Internacionais, fluente em inglês (C2).  
+Graduado em Letras – Inglês e Relações Internacionais, fluente em inglês e certificado pela Universidade de Michigan (C2).  
 Especializado na criação de documentação técnica clara, acessível e multilíngue (APIs, guias de usuário, bases de conhecimento).  
 Certificado em Redação Técnica e Agile Scrum, com proficiência em Git, Confluence, JIRA e Markdown.
 
@@ -91,9 +81,9 @@ Certificado em Redação Técnica e Agile Scrum, com proficiência em Git, Confl
 
 ---
 
-## Competências
+## Core skills
 
-| Habilidades / Tecnologias | Certificações | Tarefas Realizadas (com contexto) | Competências / Soft Skills |
+| Habilidades | Certificações | Tarefas Realizadas | Competências |
 |----------------------------|---------------|----------------------------------|---------------------------|
 | 📝 **Redação Técnica** | 📚 API Technical Writing (REST, JSON, XML) | Contribuo para registros de avaliação padronizados como **Examinador Oral para a University of Cambridge**, assegurando consistência e clareza nos resultados. | 💬 Comunicação clara e objetiva |
 | 🗂 **Gestão de Conhecimento** | 📚 Tech Writers Master Class | Estruturei processos de documentação educacional como **Mentor de Inovação na Casa Thomas Jefferson**, apoiando treinamentos e projetos internos. | 🧠 Organização e gestão de informações |
