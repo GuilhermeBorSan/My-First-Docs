@@ -20,14 +20,22 @@ Conecto **clareza, tecnologia e usuários**:
 
 ### 🏆 Experiência
 - **Profissional:**
-  - Nov. 2024 - Atual: Examinador de Proficiência em Inglês na University of Cambridge, aplicando padrões internacionais de avaliação. 
-  - Jan. 2025 - Fev. 2025: Coordenador Pedagógico Bilíngue, alinhando padrões internacionais às necessidades locais.  
-  - Abr. 2021 - Fev. 2024: Mentor de Inovação, produzindo guias do usuário, relatórios e materiais de treinamento.  
-  - Jan. 2017 - Dez. 2024: Educador de Inglês, estruturando documentação educacional e digital.
-     
+  - Nov. 2024 - Atual: Examinador de Proficiência em Inglês na University of Cambridge   
+    - Aplico padrões internacionais de avaliação. 
+  - Jan. 2025 - Fev. 2025: Coordenador Pedagógico Bilíngue
+    - Alinhei padrões internacionais às necessidades locais.  
+  - Abr. 2021 - Fev. 2024: Mentor de Inovação
+    -  Produzi guias do usuário, relatórios e materiais de treinamento.  
+  - Jan. 2017 - Dez. 2024: Educador de Inglês,
+    - Estruturei documentação educacional e digital para públicos diversos
 - **Educacional:**  
   - Licenciatura em Letras Inglês e Formação Pedagógica (2024)
-  - Bacharelado em Relações Internacionais (2016)  
+  - Bacharelado em Relações Internacionais (2016)
+- **Idiomas:**  
+  - Português (Nativo)
+  - Inglês (Fluente - C2)
+  - Espanhol (Intermediário - B1)
+  - Francês (Básico - A2)
 
 ### 🧰 Como agrego valor
 | Competência | Certificação | Atividade | Habilidade |
@@ -37,7 +45,7 @@ Conecto **clareza, tecnologia e usuários**:
 | Design da Informação | JPDocu School, Google for Education Level 2 | Criação de materiais digitais como Coordenador Pedagógico Bilíngue | Atenção a detalhes |
 | Gerenciamento de Projetos | Agile Scrum Fundamentals | Coordenação de equipes multiculturais | Trabalho em equipe com uso de metodologias ágeis |
 | Ferramentas tecnológicas | JIRA and Confluence Course', Markdown Course | Manutenção de documentação estruturada como Mentor de Inovação | Rigor técnico com o uso de Git, Confluence, XML, Markdown, Scrum, Jira, Notion, Trello, Zoom, Google Workspace, Microsoft Office |
-| Idiomas | Português (Nativo), Inglês (Fluente - C2), Espanhol (Intermediário - B1), Francês (Básico - A2) | Tradução e revisão multilíngue como Educador de Inglês | Comunicação intercultural |
+| Idiomas | Inglês (C2) certificado pela Universidade de Michigan | Tradução e revisão multilíngue como Educador de Inglês | Comunicação intercultural |
 
 ### 📂 Portfólio
 - [Introdução a Calculadora](https://github.com/GuilhermeBorSan/My-Repo/blob/main/CalculatorExercise.md)  
