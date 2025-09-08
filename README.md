@@ -105,10 +105,7 @@ I connect **clarity, technology, and users**:
 | Technological Tools    | Jira and Confluence Course, Markdown Course                   | Maintain structured documentation                                        | Technical rigor with Git, Confluence, XML, Markdown, Scrum, Jira, Notion, Trello, Zoom, Google Workspace, Microsoft Office |
 | Languages              | English (C2), certified by the University of Michigan         | Translate and review multilingual content as an English Teacher           | Cross-cultural communication                                              |
 
-### 📂 Portfolio
-- [Introduction to Calculator](https://github.com/GuilhermeBorSan/My-Repo/blob/main/CalculatorExercise.md)  
-- [Introduction to YouTube](https://github.com/GuilhermeBorSan/My-Repo/blob/main/Intro-to-YouTube.md)  
-- [How to Perform a PIX Transaction](https://github.com/GuilhermeBorSan/My-Repo/blob/main/Pix-Transaction.md)
 
 </details>
 
+### 📂 [Portfolio](https://github.com/GuilhermeBorSan/My-Repo/blob/main/DOCUMENTATION_INDEXpt.md)
