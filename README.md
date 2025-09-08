@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GuilhermeBorSan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/guilhermeborsan)
 [![GitHub](https://img.shields.io/badge/GitHub-GuilhermeBorSan-black?style=flat-square&logo=github)](https://github.com/GuilhermeBorSan)
 [![CV](https://img.shields.io/badge/CV-PTBR-red?style=flat-square&logo=adobeacrobatreader)](https://github.com/GuilhermeBorSan/My-Docs/blob/main/PT-BR.md)
+[![CV](https://img.shields.io/badge/CV-EN-blue?style=flat-square&logo=adobeacrobatreader)](https://github.com/GuilhermeBorSan/My-Docs/blob/main/EN-US.md)
 [![Email](https://img.shields.io/badge/Email-GBSantos20@uol.com.br-green?style=flat-square&logo=gmail)](mailto:GBSantos20@uol.com.br)
 
 # Table of Contents / Índice
