@@ -1,5 +1,26 @@
 # Guilherme Borges Santos
 
+# Table of Contents / Índice
+
+## PT-BR
+- [Quem sou eu?](#pt-br-quem-sou-eu)
+- [O que eu faço](#-o-que-eu-faço)
+- [Principais Conquistas](#-principais-conquistas)
+- [Como agrego valor](#-como-agrego-valor)
+- [Formação](#-formação)
+- [Competências Principais](#-competências-principais)
+- [Vamos nos conectar](#-vamos-nos-conectar)
+
+## EN-US
+- [Who am I?](#en-us-who-am-i)
+- [What I do](#-what-i-do)
+- [Key Achievements](#-key-achievements)
+- [How I Deliver Value](#-how-i-deliver-value)
+- [Background](#-background)
+- [Core Skills](#-core-skills)
+- [Let’s Connect](#-lets-connect)
+
+
 # (PT-BR) Quem sou eu?
 
 Sou um redator técnico em transição da área de educação
